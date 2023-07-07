@@ -11,8 +11,8 @@ dev and 6,008 for test).
 ### <u>Download:</u>
 &emsp;The QSL dataset is released to universities and research institutes for research purpose only. To request the access right to the data resources, please follow the link below:
 
-**Baidu Netdisk:** https://pan.baidu.com/s/1EHIYLp_uJLxe2-fNtTrwoA [password: jia1]
+**Baidu Netdisk:** 链接：https://pan.baidu.com/s/1Soe0fcnN2ByFr1Yionagzg [password: ffei]
 
-**OneDrive:** https://tjueducn-my.sharepoint.com/:f:/g/personal/lqgao_tju_edu_cn/EhnANKFvKfxBi3ous6mqqvcB_7_sdhQNLeBsiVlBCc91dg?e=qpQiqL
+
 
 
