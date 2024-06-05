@@ -15,4 +15,5 @@ dev and 6,008 for test).
 
 
 
-
+### <u>GBT Model:</u>
+&emsp; To implement question-driven sign language translation, we propose a Gloss-Bridged Translator (GBT) model. The code is as follows: https://github.com/glq-1992/GBT-code.
