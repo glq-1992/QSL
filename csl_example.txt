@@ -1,0 +1,20 @@
+/disk1/dataset/CSL-Daily_256x256px/S000011_P0000_T00Q你 花 什么Q你 来 自 哪 里 呢Q你 来 自 哪 里 呢Q你 是 哪 里 人
+/disk1/dataset/CSL-Daily_256x256px/S000035_P0000_T00Q中国 菜 我 妈妈 炒 不会Q你 妈 妈 会 做 中 国 菜 吗Q你 妈 妈 会 做 中 国 菜 吗Q我 妈 妈 不 会 做 中 国 菜
+/disk1/dataset/CSL-Daily_256x256px/S000038_P0000_T00Q问 今天 多少Q今 天 几 号Q今 天 几 号Q请 问 今 天 几 号
+/disk1/dataset/CSL-Daily_256x256px/S000046_P0000_T00Q明天 6 1 星期 1Q明 天 几 月 几 日Q明 天 几 月 几 日Q明 天 是 六 月 一 日 星 期 一
+/disk1/dataset/CSL-Daily_256x256px/S000055_P0000_T00Q下午 我 想 去 书 房子Q下 午 你 想 去 哪 里Q下 午 你 想 去 哪 里Q下 午 我 想 去 图 书 馆
+/disk1/dataset/CSL-Daily_256x256px/S000175_P0004_T00Q明天 下午 怎么样 你 明天 点 多少 来Q明 天 下 午 怎 么 样Q明 天 下 午 怎 么 样Q明 天 下 午 怎 么 样 你 明 天 几 点 能 回 来
+/disk1/dataset/CSL-Daily_256x256px/S000181_P0000_T00Q我 猫 月 6Q你 的 猫 多 大 了Q你 的 猫 多 大 了Q我 的 猫 六 个 多 月
+/disk1/dataset/CSL-Daily_256x256px/S000182_P0000_T00Q小 王 踢足球 要 要 去 我 想 不 去Q你 想 去 和 小 王 踢 足 球 吗Q你 想 去 和 小 王 踢 足 球 吗Q小 王 要 去 踢 足 球 我 不 想 去
+/disk1/dataset/CSL-Daily_256x256px/S000197_P0000_T00Q学 我 不 想 我 想 和 他们 一起 乒乓球Q你 想 学 习 吗Q你 想 学 习 吗Q我 不 想 学 习 我 想 和 他 们 去 打 乒 乓 球
+/disk1/dataset/CSL-Daily_256x256px/S000204_P0000_T00Q什么 时间 出院Q多 久 能 出 院Q多 久 能 出 院Q什 么 时 候 能 出 院
+/disk1/dataset/CSL-Daily_256x256px/S000211_P0000_T00Q是 这 天 多少 忙 多 休息 时间 没有Q他 这 几 天 很 忙 吗Q他 这 几 天 很 忙 吗Q是 他 这 几 天 很 忙 没 有 时 间 休 息
+/disk1/dataset/CSL-Daily_256x256px/S000218_P0000_T00Q今天 冬天 多 我 朋友 去 一起 吃 火锅Q今 天 很 冷 你 们 去 出 什 么Q今 天 很 冷 你 们 去 出 什 么Q今 天 很 冷 我 和 朋 友 出 去 吃 火 锅
+/disk1/dataset/CSL-Daily_256x256px/S000223_P0000_T00Q我们 人 多 要 预定 包 房子Q请 问 你 们 需 要 预 定 包 间 吗Q请 问 你 们 需 要 预 定 包 间 吗Q我 们 人 很 多 要 预 订 一 个 包 间
+/disk1/dataset/CSL-Daily_256x256px/S000228_P0000_T00Q你们 房子 谁 炒 爸爸 妈妈Q你 们 家 里 谁 做 饭 爸 爸 还 是 妈 妈Q你 们 家 里 谁 做 饭 爸 爸 还 是 妈 妈Q你 们 家 里 谁 做 饭 爸 爸 还 是 妈 妈
+/disk1/dataset/CSL-Daily_256x256px/S000234_P0000_T00Q我 爸爸 妈妈 旅游 我 自己 炒Q你 的 父 母 做 饭 吗Q你 的 父 母 做 饭 吗Q我 的 父 母 去 旅 游 了 我 自 己 做 饭
+/disk1/dataset/CSL-Daily_256x256px/S000241_P0000_T00Q你 点 菜 不 请 你 女 朋友 点 菜Q我 可 以 先 点 餐 吗Q我 可 以 先 点 餐 吗Q你 不 要 点 餐 让 你 的 女 朋 友 先 点 餐
+/disk1/dataset/CSL-Daily_256x256px/S000248_P0000_T00Q我们 火车 站 要 迟到 只好 坐 路 吃 面包Q你 们 要 吃 什 么Q你 们 要 吃 什 么Q我 们 去 火 车 站 要 迟 到 了 只 能 在 路 上 吃 面 包
+/disk1/dataset/CSL-Daily_256x256px/S000251_P0000_T00Q爸爸 妈妈 去 美国 吃 不 到 中国 菜Q爸 爸 和 妈 妈 能 吃 到 中 国 菜 吗Q爸 爸 和 妈 妈 能 吃 到 中 国 菜 吗Q爸 爸 和 妈 妈 去 美 国 吃 不 到 中 国 菜
+/disk1/dataset/CSL-Daily_256x256px/S000254_P0000_T00Q我 朋友 医生 手术 我 多 担心Q你 在 担 心 什 么Q你 在 担 心 什 么Q我 的 朋 友 在 医 院 做 手 术 我 很 担 心
+/disk1/dataset/CSL-Daily_256x256px/S003333_P0002_T00Q刚才 有 什么 东西 看Q刚 才 是 有 什 么 东 西 跑 过 去Q刚 才 是 有 什 么 东 西 跑 过 去Q刚 才 是 不 是 有 什 么 东 西 跑 过 去 了

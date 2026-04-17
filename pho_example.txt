@@ -1,0 +1,20 @@
+train/12July_2011_Tuesday_heute-1272%liebe zuschauer guten abend%liebe zuschauer guten abend oder morgen%LIEB ZUSCHAUER poss-EUCH GUT ABEND
+train/22June_2011_Wednesday_heute-4377%liebe zuschauer guten abend%Wann ist die Sendung ausgestrahlt%LIEB GUT ABEND
+train/02October_2009_Friday_tagesschau-1351%und nun die wettervorhersage für morgen samstag den dritten oktober%An welchem ​​Tag ist die Wettervorhersage%JETZT WETTER MORGEN SAMSTAG DRITTE OKTOBER
+train/18April_2011_Monday_tagesschau-1315%über der mitte europas liegt ein umfangreiches hoch um das tiefs einen weiten bogen machen%Was macht einen weiten bogen%EUROPA MITTE REGION HOCH KOMMEN IX TIEF KOMMEN
+train/21June_2011_Tuesday_tagesschau-1261%und nun die wettervorhersage für morgen mittwoch den zweiundzwanzigsten juni%Ist das die wettervorhersage für morgen mittwoch den zweiundzwanzigsten juni%JETZT WETTER VORAUS INFORMIEREN MORGEN MITTWOCH ZWEI ZWANZIG JUNI
+train/10January_2011_Monday_heute-1365%guten abend liebe zuschauer%Guten Abend liebe Zuschauer%GUT-ABEND LIEB ZUSCHAUER poss-EUCH
+train/31January_2010_Sunday_tagesschau-1324%und hier die wetteraussichten für morgen montag den ersten februar%An welchem ​​Tag ist die Wettervorhersage für Morgen%WIE-AUSSEHEN MORGEN MONTAG ERSTE FEBRUAR
+train/05May_2011_Thursday_heute-3739%guten abend liebe zuschauer%Ist guten abend liebe zuschauer%GUT ABEND LIEB ZUSCHAUER
+train/23February_2011_Wednesday_heute-3765%guten abend liebe zuschauer%Ist guten abend liebe zuschauer%GUT ABEND LIEB ZUSCHAUER
+train/25May_2010_Tuesday_heute-3752%liebe zuschauer guten abend%Ist liebe zuschauer guten abend%LIEB DU ZUSCHAUER GUT ABEND
+train/15December_2010_Wednesday_tagesschau-38%starke winde sorgen zudem für schneeverwehungen es bestehen entsprechende unwetterwarnungen des deutschen wetterdienstes%Verursachen starke Winde auch Schneeverwehungen%WIND poss-SEIN SCHNEE WEHEN IX UNWETTER WARNUNG ENORM
+train/24January_2013_Thursday_tagesschau-6319%und nun die wettervorhersage für morgen freitag den fünfundzwanzigsten januar%Für welchen Tag ist die Wettervorhersage%JETZT WETTER VORAUS INFORMIEREN MORGEN FREITAG FUENF ZWANZIG JANUAR
+train/10August_2011_Wednesday_tagesschau-6293%und nun die wettervorhersage für morgen donnerstag den elften august%Für welchen Tag ist die Wettervorhersage%JETZT INFORMIEREN WETTER WIE-AUSSEHEN DONNERSTAG ELF AUGUST
+train/02October_2010_Saturday_tagesschau-1299%und nun die wettervorhersage für morgen sonntag den dritten oktober%Ist das die wettervorhersage für morgen sonntag den dritten oktober%JETZT WETTER WIE-AUSSEHEN MORGEN SONNTAG DRITTE AUGUST
+train/22July_2010_Sunday_tagesschau-1338%und nun die wettervorhersage für morgen montag den dreiundzwanzigsten august%An welchem ​​Tag ist die Wettervorhersage%JETZT WETTER WIE-AUSSEHEN MORGEN MONTAG DREI ZWANZIG AUGUST
+train/08May_2010_Saturday_tagesschau-174%und nun die wettervorhersage für morgen sonntag den neunten mai%Ist es jetzt die Wettervorhersage für morgen Sonntag den 9 Mai%WETTER MORGEN SONNTAG NEUNTE MAI WIE-AUSSEHEN ZEIGEN-BILDSCHIRM
+train/14August_2009_Friday_tagesschau-61%und nun die wettervorhersage für morgen samstag den fünfzehnten august%Ist es jetzt die Wettervorhersage für morgen Samstag den 15 August%JETZT WIE-AUSSEHEN WETTER MORGEN SAMSTAG FUENFZEHN AUGUST
+train/26July_2010_Monday_tagesschau-6257%zwischen einem hoch über osteuropa und dem azorenhoch liegt eine zone tiefen luftdrucks die uns auch in den nächsten tagen wechselhaftes wetter beschert%Wo liegt eine Zone tiefen Luftdrucks Und was beschert sie%HOCH OST EUROPA ZONE TIEF LUFT DRUCK EIN-PAAR-TAGE WECHSELHAFT KOMMEN
+train/30November_2011_Wednesday_tagesschau-6280%und nun die wettervorhersage für morgen donnerstag den ersten dezember%Für welchen Tag ist die Wettervorhersage%JETZT MORGEN WETTER WIE-AUSSEHEN DONNERSTAG ERSTE DEZEMBER
+train/16September_2010_Thursday_tagesschau-6269%und nun die wettervorhersage für morgen freitag den siebzehnten september%Für welchen Tag ist die Wettervorhersage%JETZT WETTER WIE-AUSSEHEN MORGEN FREITAG SIEBZEHN SEPTEMBER
